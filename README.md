@@ -1,2 +1,0 @@
-# VEGRANT
-## PROJECT_ALX
